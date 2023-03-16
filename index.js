@@ -3,31 +3,31 @@ let movies = [
     name: "Doctor Strange in The Multiverse of Madness",
     des:
       "When the Metaverse is Unlocked, Doctor Strange must enlist help from old and new allies in order to confront a surprising adversary",
-    image: "banners/doc-st.jpeg"
+    image: "doc-st.jpeg"
   },
   {
     name: "Anupama",
     des:
       "Despite the many challenges thrown her away, Anupama begins a new chapter of her life post-divorse. Head held always high, whats waiting for her next?",
-    image: "banners/anupama.jpeg"
+    image: "anupama.jpeg"
   },
   {
     name: "2AM",
     des:
       "New to the city , a medical settles in a hostel. Her life turns upside down when she experiences mysterious happenings, unfolding a horrifying past",
-    image: "banners/realstory.jpeg"
+    image: "realstory.jpeg"
   },
   {
     name: "Ye Rishta Rya Kehlata Hai",
     des:
       "LATEST EPISODE WILL BE FREE AFTER 3 DAYS. kartik, Naira and Sirat's daughter are grown up. Akshara immensely loves arohi .But, what happen when they are caught in a love triangle with Abhimanyu",
-    image: "banners/ye-rishta.jpeg"
+    image: "ye-rishta.jpeg"
   },
   {
     name: "Laali",
     des:
       "A lonely laundryman from suburbs of Kolkata finds companionship in an unclaimed red dress, wjich triggers esoteric memories from the past",
-    image: "banners/laali.jpeg"
+    image: "laali.jpeg"
   }
 ];
 const carousel = document.querySelector(".carousel");
